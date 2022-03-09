@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Incident)">c9fc59e22f060510d8cebcb62799b68f</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Incident)</name>
+        <order/>
+        <parent>fcfc59e22f060510d8cebcb62799b659</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-08 06:59:34</sys_created_on>
+        <sys_id>41fc59e22f060510d8cebcb62799b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Incident)</sys_name>
+        <sys_package display_value="ServiceNow HelpDesk" source="x_682682_serviceno">138c9d2e2fc20510d8cebcb62799b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow HelpDesk">138c9d2e2fc20510d8cebcb62799b6ed</sys_scope>
+        <sys_update_name>sys_sg_button_instance_41fc59e22f060510d8cebcb62799b6d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-08 06:59:34</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=41fc59e22f060510d8cebcb62799b6d8"/>
+</record_update>

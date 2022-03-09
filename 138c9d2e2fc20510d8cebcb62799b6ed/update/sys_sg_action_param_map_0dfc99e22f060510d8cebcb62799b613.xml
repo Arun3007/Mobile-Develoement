@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Incident)">c5fc59e22f060510d8cebcb62799b6f3</button>
+        <item_parameter display_value="Incident state">89fc59e22f060510d8cebcb62799b6e2</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-08 06:59:35</sys_created_on>
+        <sys_id>0dfc99e22f060510d8cebcb62799b613</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>89fc59e22f060510d8cebcb62799b6e2</sys_name>
+        <sys_package display_value="ServiceNow HelpDesk" source="x_682682_serviceno">138c9d2e2fc20510d8cebcb62799b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow HelpDesk">138c9d2e2fc20510d8cebcb62799b6ed</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_0dfc99e22f060510d8cebcb62799b613</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-08 06:59:35</sys_updated_on>
+        <ui_parameter display_value="State">49fc59e22f060510d8cebcb62799b6f8</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

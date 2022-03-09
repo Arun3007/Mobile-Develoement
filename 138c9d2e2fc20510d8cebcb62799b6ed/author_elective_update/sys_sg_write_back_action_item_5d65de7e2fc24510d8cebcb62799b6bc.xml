@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description/>
+        <execution_script><![CDATA[(function WriteBackAction(input) {
+    //Type appropriate comment here, and begin script below
+ 
+})(input);]]></execution_script>
+        <name>Demo Delete</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-09 05:45:28</sys_created_on>
+        <sys_id>5d65de7e2fc24510d8cebcb62799b6bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo Delete</sys_name>
+        <sys_package display_value="ServiceNow HelpDesk" source="x_682682_serviceno">138c9d2e2fc20510d8cebcb62799b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow HelpDesk">138c9d2e2fc20510d8cebcb62799b6ed</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_5d65de7e2fc24510d8cebcb62799b6bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-09 05:45:28</sys_updated_on>
+        <table>x_682682_serviceno_my_helpdesk</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=5d65de7e2fc24510d8cebcb62799b6bc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNow HelpDesk">138c9d2e2fc20510d8cebcb62799b6ed</application>
+        <file_path/>
+        <instance_id>70632506dbf0f70442b321c40596196b</instance_id>
+        <instance_name>dev81098</instance_name>
+        <name>sys_sg_write_back_action_item_5d65de7e2fc24510d8cebcb62799b6bc</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_sg_write_back_action_item"&gt;&lt;sys_sg_write_back_action_item action="INSERT_OR_UPDATE"&gt;&lt;description/&gt;&lt;execution_script&gt;&lt;![CDATA[(function WriteBackAction(input) {
+    //Type appropriate comment here, and begin script below
+ 
+})(input);]]&gt;&lt;/execution_script&gt;&lt;name&gt;Demo Delete&lt;/name&gt;&lt;parameter_screen/&gt;&lt;query_condition/&gt;&lt;sys_class_name&gt;sys_sg_write_back_action_item&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-03-09 05:45:28&lt;/sys_created_on&gt;&lt;sys_id&gt;5d65de7e2fc24510d8cebcb62799b6bc&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Demo Delete&lt;/sys_name&gt;&lt;sys_package display_value="ServiceNow HelpDesk" source="x_682682_serviceno"&gt;138c9d2e2fc20510d8cebcb62799b6ed&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ServiceNow HelpDesk"&gt;138c9d2e2fc20510d8cebcb62799b6ed&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_sg_write_back_action_item_5d65de7e2fc24510d8cebcb62799b6bc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-03-09 05:45:28&lt;/sys_updated_on&gt;&lt;table&gt;x_682682_serviceno_my_helpdesk&lt;/table&gt;&lt;template/&gt;&lt;type&gt;delete&lt;/type&gt;&lt;use_current_record_as_condition&gt;true&lt;/use_current_record_as_condition&gt;&lt;use_fields_for_ref_lookup&gt;false&lt;/use_fields_for_ref_lookup&gt;&lt;/sys_sg_write_back_action_item&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=5d65de7e2fc24510d8cebcb62799b6bc"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>717285315</payload_hash>
+        <record_name>Demo Delete</record_name>
+        <reverted_from/>
+        <source>9f8c9d2e2fc20510d8cebcb62799b6ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-09 05:45:28</sys_created_on>
+        <sys_id>dd9512322f064510d8cebcb62799b60e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f6d35fafe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-09 05:45:28</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>199512322e0645104d3aab17c957690e</update_guid>
+        <update_guid_history>199512322e0645104d3aab17c957690e:717285315</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-09 05:46:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>2ff3cf5a6ab546bfbe6f086d8a4fb371</sys_id>
+        <sys_metadata>5d65de7e2fc24510d8cebcb62799b6bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo Delete</sys_name>
+        <sys_package display_value="ServiceNow HelpDesk" source="x_682682_serviceno">138c9d2e2fc20510d8cebcb62799b6ed</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow HelpDesk">138c9d2e2fc20510d8cebcb62799b6ed</sys_scope>
+        <sys_scope_delete display_value="">0395f39673a34722809ccf1b5874d2d9</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_5d65de7e2fc24510d8cebcb62799b6bc</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_5d65de7e2fc24510d8cebcb62799b6bc">dd9512322f064510d8cebcb62799b60e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-09 05:46:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

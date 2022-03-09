@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-08 07:06:23</sys_created_on>
+        <sys_id>7c8edd662f060510d8cebcb62799b663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_682682_serviceno_my_helpdesk.x_682682_serviceno.my_helpdesk_user</sys_name>
+        <sys_package display_value="ServiceNow HelpDesk" source="x_682682_serviceno">138c9d2e2fc20510d8cebcb62799b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow HelpDesk">138c9d2e2fc20510d8cebcb62799b6ed</sys_scope>
+        <sys_security_acl display_value="x_682682_serviceno_my_helpdesk">bc8edd662f060510d8cebcb62799b660</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7c8edd662f060510d8cebcb62799b663</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-08 07:06:23</sys_updated_on>
+        <sys_user_role display_value="x_682682_serviceno.my_helpdesk_user" name="x_682682_serviceno.my_helpdesk_user">208e15262f060510d8cebcb62799b69d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
